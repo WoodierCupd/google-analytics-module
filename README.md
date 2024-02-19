@@ -39,6 +39,9 @@ If you need Nuxt 3 support can use the alternative module [nuxt-gtag](https://gi
 2. Install dependencies using `yarn install` or `npm install`
 3. Start development server using `yarn dev` or `npm run dev`
 
+## What did i change in this fork?
+> asyncID now has 2 parameters, ctx and host.
+
 ## License
 
 [MIT License](./LICENSE)
